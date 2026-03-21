@@ -29,7 +29,7 @@ security challenges.
 | Intrusion Detection & Attack Simulation       | <a href=https://github.com/AdedapoOG/SOC-Automation/tree/main>SOC Automation Lab</a>|
 | Network & System Security                     | <a href=https://github.com/AdedapoOG/SOC-Automation/tree/main>SOC Automation Lab</a>|
 | Incident Response & Threat Hunting            | <a href=https://github.com/AdedapoOG/SOC-Automation/tree/main>SOC Automation Lab</a>|
-| ISO/IEC 27001 ISMS Implementation (Hands-on)  | <a href=https://github.com/AdedapoOG/ISO27001-ISMS-Implementationtree/main>ISO27001-ISMS-Implementation</a>|
+| ISO/IEC 27001 ISMS Implementation (Hands-on)  | <a href=https://github.com/AdedapoOG/ISO27001-ISMS-Implementation/tree/main>ISO27001-ISMS-Implementation</a>|
 | End to End Detection Analysis                 | <a href=https://github.com/AdedapoOG/Zenith_fishing_project/tree/main>Zenith_Phishing_Lab</a>|
 ## Tools
 
