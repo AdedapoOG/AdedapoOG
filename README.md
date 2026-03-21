@@ -10,10 +10,16 @@ I am a Cybersecurity Analyst with a robust foundation in accounting and financia
 Currently working on SIEM projects with Splunk, phishing investigations, and SOC automations.
 
 ## Objective
-I have a robust academic foundation in Financial Technology and an unwavering passion for a career in Information Cybersecurity. I have a solid grounding in accounting, and now I am poised to harness my expertise to safeguard sensitive data and fortify information systems. My academic pursuits have equipped me with a profound grasp of cybersecurity principles, risk management, and network security protocols. Through practical experience and a proactive approach. I have honed the art of deciphering analyzing intricate systems and complex situations. I am eager to channel my dedication to data protection, contribute to threat identification and prevention, and continually elevate my competencies in this dynamically evolving specialized area.
-
-## Skills
-
+Cybersecurity professional with a strong foundation in Security Operations, 
+threat detection, and incident response. Holder of an MSc in Financial 
+Technology from Teesside University and certified across CompTIA Security+, 
+Google Cybersecurity, and ISO 27001 Foundation, with Microsoft SC-200 
+currently in progress. Experienced in building and operating SIEM-driven 
+detection environments using Splunk, Microsoft Sentinel, and ELK Stack, 
+with practical expertise in log correlation, alert triage, phishing 
+investigation, and detection engineering. Committed to continuous 
+development and applying structured SOC methodology to real-world 
+security challenges.
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
