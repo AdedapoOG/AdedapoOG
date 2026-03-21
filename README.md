@@ -30,6 +30,15 @@ security challenges.
 | Network & System Security                     | <a href=https://github.com/AdedapoOG/SOC-Automation/tree/main>SOC Automation Lab</a>|
 | Incident Response & Threat Hunting            | <a href=https://github.com/AdedapoOG/SOC-Automation/tree/main>SOC Automation Lab</a>|
 | End to End Detection Analysis                 | <a href=https://github.com/AdedapoOG/Zenith_fishing_project/tree/main>Zenith_Phishing_Lab</a>|
+
+| Skill | Associated Project |
+|------|--------------------|
+| ISO/IEC 27001 ISMS Implementation (Hands-on) | ISO27001-ISMS-Implementation |
+| Information Security Policy Development | ISO27001-ISMS-Implementation |
+| Stakeholder & Regulatory Requirements Analysis | ISO27001-ISMS-Implementation |
+| Risk Assessment & Risk Treatment Planning | ISO27001-ISMS-Implementation |
+| Annex A Security Control Mapping | ISO27001-ISMS-Implementation |
+| Governance, Risk & Compliance (GRC) Fundamentals | ISO27001-ISMS-Implementation |
 ## Tools
 
 
